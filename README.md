@@ -1,25 +1,37 @@
 # Hello, I'm Nghi Ngo! 👋
 
 ## About Me
-I'm a software engineer who is passionate about algorithms, data structures, data mining, and computer science. I'm always eager to learn and currently, I'm diving deeper into the principles of "Clean Code".
+I'm a software engineer passionate about algorithms, data structures, data mining, and computer science. Always eager to learn, I'm currently exploring advanced topics in AI and machine learning.
 
 ## Interests
 - 📚 Algorithms and Data Structures
 - 💻 Computer Science
 - 📈 Data Mining
+- 🤖 Artificial Intelligence and Machine Learning
 
 ## Currently Learning
-- 🌱 "Clean Code" principles to improve the readability, reusability, and maintainability of my code.
+- 🌱 Advanced AI techniques and their practical applications
+- 🚀 Cloud-native development and microservices architecture
+- 🔒 Cybersecurity best practices for modern applications
+
+## Recent Projects
+- 💼 [Process Breakdown](https://github.com/NghiNgo/process-breakdown): A comprehensive repository providing detailed, step-by-step guides on the development process of complex application systems, including blockchain technologies, AI/ML systems, IoT platforms, and more.
+- 🔬 [Recommendation Systems]: Research and implementation of advanced recommendation algorithms, exploring collaborative filtering, content-based filtering, and hybrid approaches to enhance user experience and engagement in e-commerce and content platforms.
 
 ## Collaboration
-- 💞️ I’m looking to collaborate with other passionate developers. Feel free to reach out if you're interested in working together on a project!
+- 💞️ I'm looking to collaborate on innovative projects in AI, data science, or cutting-edge web technologies. Let's create something impactful together!
 
 ## Contact Me
-- 📫 You can reach me at:
+- 📫 Reach me at:
   - [Gmail](mailto:tuongnghi.ngonguyen@gmail.com)
-  - Skype: [live:.cid.25c9ea65289f08ad](skype:live:.cid.25c9ea65289f08ad?chat)
+  - [GitHub](https://github.com/NghiNgo)
 
-Let's connect and build something amazing together!
+## 2024 Goals
+- 📊 Contribute to open-source AI projects
+- 📝 Write technical articles to share knowledge
+- 🎓 Obtain certifications in cloud computing and AI
+
+Let's connect and build the future of technology together!
 
 <!---
 NghiNgo/NghiNgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
