@@ -26,7 +26,7 @@ I'm a software engineer passionate about algorithms, data structures, data minin
   - [Gmail](mailto:tuongnghi.ngonguyen@gmail.com)
   - [GitHub](https://github.com/NghiNgo)
 
-## 2024 Goals
+## 2025 Goals
 - 📊 Contribute to open-source AI projects
 - 📝 Write technical articles to share knowledge
 - 🎓 Obtain certifications in cloud computing and AI
