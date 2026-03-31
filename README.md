@@ -2,7 +2,7 @@
 
 ## Contact Me
 - 📫 Reach me at:
-  - [Gmail](mailto:tuongnghi.ngonguyen@gmail.com)
+  - [Work](mailto:tuongnghi.ngonguyen@gmail.com)
   - [School](mailto:nghinnt@ntu.edu.vn)
   - [GitHub](https://github.com/NghiNgo)
 
