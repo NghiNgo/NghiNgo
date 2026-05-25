@@ -32,6 +32,6 @@ I am a University Lecturer, Researcher, and Software Engineer. My work focuses o
 
 ## GitHub Statistics
 
-![Tuong-Nghi's GitHub Stats](https://github-readme-stats.com/api?username=NghiNgo&show_icons=true&theme=neutral&hide_border=true&count_private=true)
+![Tuong-Nghi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NghiNgo&show_icons=true&theme=neutral&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.com/api/top-langs/?username=NghiNgo&layout=compact&theme=neutral&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NghiNgo&layout=compact&theme=neutral&hide_border=true)
