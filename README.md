@@ -21,9 +21,12 @@ I am a University Lecturer, Researcher, and Software Engineer. My work focuses o
 * **DevOps & Environments:** Linux CLI, Git/GitHub, CI/CD Baselines
 
 ## Scientific Publications & Source Code
+
+* **Tối ưu hóa truy xuất trong hệ thống RAG thông qua kỹ thuật bổ sung ngữ cảnh chủ động và làm phẳng dữ liệu bán cấu trúc** (2026)  
+  *Description: A data representation layer framework for RAG systems tackling context loss in semi-structured JSON datasets. Combines Natural Language Flattening and Active Context Injection to achieve 85.56% Context Precision. Built using AnythingLLM, Docker, Gemini Embedding, and Llama-3.1-8b with RAGAS evaluation framework.* [Repository Link](https://github.com/NghiNgo/RAG-Context-Injection) | [Paper Link/DOI]
+
 * **Hệ thống gợi ý xe ô tô kết hợp nội dung và mô hình ngôn ngữ lớn** (2025)  
-  *Description: A hybrid content-based recommendation system integrating 897D feature vectors (structured metadata and 768D text embeddings) with Google Gemini for Explainable AI (XAI). Built using Python, FastAPI, and PostgreSQL with pgvector (HNSW Index).*  
-  [Repository Link](https://github.com/NghiNgo/CBF-XAI) | [Paper Link/DOI]
+  *Description: A hybrid content-based recommendation system integrating 897D feature vectors (structured metadata and 768D text embeddings) with Google Gemini for Explainable AI (XAI). Built using Python, FastAPI, and PostgreSQL with pgvector (HNSW Index).* [Repository Link](https://github.com/NghiNgo/CBF-XAI) | [Paper Link/DOI]
 
 ---
 
