@@ -20,7 +20,7 @@ I am a University Lecturer, Researcher, and Software Engineer. My work focuses o
 * **Tools & Frameworks:** PostgreSQL, Docker, Linux (Ubuntu), LaTeX, WordPress, Laravel
 * **DevOps & Environments:** Linux CLI, Git/GitHub, CI/CD Baselines
 
-## Scientific Publications & Source Code
+## Scientific Publications
 
 * **Tối ưu hóa truy xuất trong hệ thống RAG thông qua kỹ thuật bổ sung ngữ cảnh chủ động và làm phẳng dữ liệu bán cấu trúc** (2026)  
   *Description: A data representation layer framework for RAG systems tackling context loss in semi-structured JSON datasets. Combines Natural Language Flattening and Active Context Injection to achieve 85.56% Context Precision. Built using AnythingLLM, Docker, Gemini Embedding, and Llama-3.1-8b with RAGAS evaluation framework.* [Repository Link](https://github.com/NghiNgo/RAG-Context-Injection) | [Paper Link/DOI]
