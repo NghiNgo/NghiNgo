@@ -16,7 +16,7 @@ I am a University Lecturer, Researcher, and Software Engineer. My work focuses o
 
 ## Technical Skills
 
-* **Languages:** Python, C/C++, Java, SQL
+* **Languages:** Python, C/C++, Java, PHP, SQL
 * **Tools & Frameworks:** PostgreSQL, Docker, Linux (Ubuntu), LaTeX, WordPress, Laravel
 * **DevOps & Environments:** Linux CLI, Git/GitHub, CI/CD Baselines
 
