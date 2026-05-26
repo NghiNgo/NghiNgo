@@ -1,5 +1,7 @@
 # Tuong-Nghi Ngo, MSc
 
+## NghiNgo, Nghi Ngô, Ngô Nguyễn Tường Nghi
+
 Lecturer at Department of Information Technology, Nha Trang University  
 Researcher & Software Engineer  
 Email: nghinnt@ntu.edu.vn | ORCID: [0009-0009-8609-0177](https://orcid.org/my-orcid?orcid=0009-0009-8609-0177) | Google Scholar: 
