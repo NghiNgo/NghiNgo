@@ -1,6 +1,6 @@
 # Tuong-Nghi Ngo, MSc
 
-Lecturer at Faculty of Information Technology, Nha Trang University  
+Lecturer at Department of Information Technology, Nha Trang University  
 Researcher & Software Engineer  
 Email: nghinnt@ntu.edu.vn | ORCID: [0009-0009-8609-0177](https://orcid.org/my-orcid?orcid=0009-0009-8609-0177) | Google Scholar: 
 
