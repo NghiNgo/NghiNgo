@@ -56,8 +56,11 @@ A hybrid content-based recommender using 897-dimensional feature vectors (struct
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NghiNgo&show_icons=true&theme=neutral&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NghiNgo&layout=compact&theme=neutral&hide_border=true&langs_count=8" alt="Top languages">
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="100%">
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" width="49%">
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most-committed languages" width="49%">
 </p>
 
 ---
