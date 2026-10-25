@@ -56,11 +56,29 @@ A hybrid content-based recommender using 897-dimensional feature vectors (struct
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="100%">
+  </picture>
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" width="49%">
-  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most-committed languages" width="49%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" width="49%">
+  </picture>
+</p>
+
+### 🐍 Contribution activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NghiNgo/NghiNgo/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/NghiNgo/NghiNgo/output/github-snake.svg" alt="Contribution snake animation" width="100%">
+  </picture>
 </p>
 
 ---
