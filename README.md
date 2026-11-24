@@ -62,12 +62,6 @@ I teach and build software at **Nha Trang University**, bridging academic resear
 | **Application & Web** | `C# (.NET)` · `C++` · `Java` · `PHP` · `Laravel` · `WordPress` |
 | **Infrastructure & Academic** | `Docker` · `Linux (Ubuntu)` · `Git & GitHub` · `LaTeX` |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,php,postgres,fastapi,laravel&perline=8" alt="Core languages and frameworks"><br>
-  <img src="https://skillicons.dev/icons?i=wordpress,docker,linux,ubuntu,git,github,latex&perline=8" alt="Infrastructure and tooling">
-</p>
--->
-
 ---
 
 ### GitHub activity
